@@ -89,7 +89,7 @@ public abstract class MobileAnimatedActor
          }
       }
        
-      return null;
+      return this.getPosition();//null;
    }
    
    
